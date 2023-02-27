@@ -5,7 +5,7 @@ export default function Document() {
     <Html lang="en">
       <Head />
       <body
-      className='bg-gradient-to-l from-red-200 to-blue-400'>
+      className='bg-gradient-to-r from-[#0a0381] to-[#8c9ddf]'>
         <Main />
         <NextScript />
       </body>

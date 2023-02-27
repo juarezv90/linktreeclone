@@ -5,17 +5,23 @@
             {
                 "title": "My Portfolio",
                 "href": "https://portfolio-next-rose-pi.vercel.app/",
-                "image":  "http://projects.websetters.in/digg-seos/digg/wp-content/themes/twentytwenty-child-theme/img/demo-prof.jpg"
-            },
-            {
-                "title": "Git Hub",
-                "href": "https://github.com/juarezv90"
-            }
+                "image":"/assets/profile.webp"
+            }            
         ],
         "socials": [
             {
                 "title": "LinkedIn",
                 "href": "https://www.linkedin.com/in/victor-juarez-b7a04b22a"
+            },
+            {
+                "title": "Facebook",
+                "href": "https://www.facebook.com/victordjuarez/"
+            }
+        ],
+        "medias":[
+            {
+                "title": "Git Hub",
+                "href": "https://github.com/juarezv90"
             }
         ]
 }
